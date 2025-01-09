@@ -1,0 +1,26 @@
+h1{
+    background-color:green;
+    size:100%;
+    color:white;
+    text-align:center;
+}
+
+#footer{
+    background-color:black;
+    text-align:center;
+    width:100%;
+    padding:20px;
+}
+
+nav{
+    color:white;
+    padding:20px;
+    background-color:black;
+    text-align:center;
+    width:100%;
+}
+
+img{
+    Width:500px;
+    height:550px;
+}
